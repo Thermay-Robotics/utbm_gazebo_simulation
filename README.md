@@ -4,6 +4,8 @@ This repository regroup UTBM's worlds used for simulation.
 
 These worlds have been build based on building's map. So you can rely on them expect for the furniture.
 
+![utbm empty world gazebo view](utbm_empty_world.png)
+
 # Install 
 
 ```
@@ -32,4 +34,6 @@ Another issue you may face concerns world’s stuff. If nothing is display on th
 
 Tutorial to learn how to create world :
 - https://www.generationrobots.com/blog/en/robotic-simulation-scenarios-with-gazebo-and-ros/
+
+
 

@@ -4,6 +4,14 @@ This repository regroup UTBM's worlds used for simulation.
 
 These worlds have been build based on building's map. So you can rely on them expect for the furniture.
 
+# Install 
+
+```
+cd catkin_ws/src
+git clone https://github.com/Thermay-Robotics/utbm_simulation.git
+cd .. && catkin_make
+```
+
 # Launch world
 
 To launch a world, follow this instructions: 
